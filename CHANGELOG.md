@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.21.0](https://github.com/googleapis/google-auth-library-java/compare/v1.20.0...v1.21.0) (2023-12-18)
+
+
+### Features
+
+* Add code sample and test for getting an access token from an impersonated SA ([#1289](https://github.com/googleapis/google-auth-library-java/issues/1289)) ([826ee40](https://github.com/googleapis/google-auth-library-java/commit/826ee4007d3e0600dfdf42383f56dbcf6cdd4cec))
+
+
+### Bug Fixes
+
+* Remove -Xlint:unchecked, suppress all existing violations, add @CanIgnoreReturnValue ([#1324](https://github.com/googleapis/google-auth-library-java/issues/1324)) ([04dfd40](https://github.com/googleapis/google-auth-library-java/commit/04dfd40c57b89c2d55327d5ea08036d749ebac02))
+
 ## [1.20.0](https://github.com/googleapis/google-auth-library-java/compare/v1.19.0...v1.20.0) (2023-09-19)
 
 
